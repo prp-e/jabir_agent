@@ -6,4 +6,4 @@ As you can see, there is no framework involved here and everything has been done
 
 ## Further studies 
 
-_TBD_
+- [Jabir API Docs](https://blog.jabirproject.org/api-docs/)
