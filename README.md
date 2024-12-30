@@ -7,3 +7,4 @@ As you can see, there is no framework involved here and everything has been done
 ## Further studies 
 
 - [Jabir API Docs](https://blog.jabirproject.org/api-docs/)
+- [My blog on this repo](https://haghiri75.com/en/you-only-need-python-to-make-ai-agents/)
